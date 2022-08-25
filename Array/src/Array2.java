@@ -17,3 +17,5 @@ public class Array2 {
         System.out.println("The sum is "+sum);
     }
 }
+
+
